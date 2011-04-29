@@ -1,0 +1,8 @@
+C:\Users\Kiri11\Desktop\JIEIIIA\Backup\JIEIIIA\bin\Release\JIEIIIA.exe
+C:\Users\Kiri11\Desktop\JIEIIIA\Backup\JIEIIIA\bin\Release\JIEIIIA.pdb
+C:\Users\Kiri11\Desktop\JIEIIIA\Backup\JIEIIIA\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Kiri11\Desktop\JIEIIIA\Backup\JIEIIIA\obj\Release\Kiri11.MainForm.resources
+C:\Users\Kiri11\Desktop\JIEIIIA\Backup\JIEIIIA\obj\Release\Kiri11.Properties.Resources.resources
+C:\Users\Kiri11\Desktop\JIEIIIA\Backup\JIEIIIA\obj\Release\JIEIIIA.csproj.GenerateResource.Cache
+C:\Users\Kiri11\Desktop\JIEIIIA\Backup\JIEIIIA\obj\Release\JIEIIIA.exe
+C:\Users\Kiri11\Desktop\JIEIIIA\Backup\JIEIIIA\obj\Release\JIEIIIA.pdb
